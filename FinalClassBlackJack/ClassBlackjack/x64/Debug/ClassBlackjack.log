@@ -1,0 +1,11 @@
+﻿  Card.cpp
+  Dealer.cpp
+  Deck.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Deck.cpp': No such file or directory
+  Game.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Game.cpp': No such file or directory
+  Player.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Player.cpp': No such file or directory
+  Source.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Source.cpp': No such file or directory
+  Generating Code...
